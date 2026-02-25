@@ -217,7 +217,4 @@ C --> D[Book Appointment]
 D --> E[Track Status]
 E --> F[Leave Review]
 
-#📊 Booking Status
-REQUESTED → CONFIRMED → COMPLETED
-        ↘
-        CANCELLED
+ 
